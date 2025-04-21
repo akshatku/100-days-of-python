@@ -20,8 +20,7 @@ Welcome to my journey through [Angela Yu's 100 Days of Code: Python Bootcamp](ht
 ## 🔧 How to Run
 1. Clone the repo
 2. Navigate to the day folder
-3. Run the Python file:
-```bash
+3. Run the Python file:```bash
 python day_file.py
 
 ## 🧭 Why I'm Doing This
